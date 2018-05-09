@@ -3,5 +3,11 @@
     <string name="app_name">ਐਡਰਾਇਡ ਲੈਬਜ਼ </string>
     <string name="hello_message">ਸਤਿ ਸ੍ਰੀ ਅਕਾਲ ਦੁਨਿਆ!</string>
     <string name="ButtonText">ਮੈਂ ਇੱਕ ਬਟਨ ਹਾਂ</string>
-    
+    <string name="login">ਲਾਗਇਨ</string>
+    <string name="loginname">ਲਾਗਇਨ ਨਾਮ</string>
+    <string name="password">ਪਾਸਵਰਡ</string>
+    <string name="RadioButton">ਰੇਡੀਓਬਟਨ</string>
+    <string name="CheckBox">ਚੈਕਬੌਕਸ</string>
+    <string name="swit">ਇਹ ਕੀ ਕਰਦਾ ਹੈ?</string>
+
 </resources>
