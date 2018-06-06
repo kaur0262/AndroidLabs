@@ -9,5 +9,14 @@
     <string name="RadioButton">ਰੇਡੀਓਬਟਨ</string>
     <string name="CheckBox">ਚੈਕਬੌਕਸ</string>
     <string name="swit">ਇਹ ਕੀ ਕਰਦਾ ਹੈ?</string>
-
+    <string name="switch_on">ਸਵਿੱਚ ਚਾਲੂ ਹੈ</string>
+    <string name="switch_off">ਸਵਿਚ ਬੰਦ ਹੈ</string>
+    <string name="dialog_message">ਤੁਹਾਨੂੰ ਪੂਰਾ ਵਿਸ਼ਵਾਸ ਹੈ</string>
+    <string name="cancel">ਰੱਦ ਕਰੋ</string>
+    <string name="ok">ਠੀਕ ਹੈ</string>
+    <string name="Switch">ਸਵਿਚ</string>
+    <string name="login_name">ਲਾਗਇਨ ਨਾਮ</string>
+    <string name="Password">ਪਾਸਵਰਡ</string>
+    <string name="Login">ਲਾਗਇਨ</string>
+    <string name="ButtonText4">ਗੱਲਬਾਤ ਸ਼ੁਰੂ ਕਰੋ</string>
 </resources>

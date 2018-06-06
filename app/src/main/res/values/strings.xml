@@ -1,4 +1,4 @@
-<resources>
+<resources xmlns:tools="http://schemas.android.com/tools">
     <string name="app_name">AndroidLabs</string>
     <string name="hello_message">Hello World!</string>
     <string name="ButtonText">I\’m a button</string>
@@ -8,4 +8,16 @@
     <string name="RadioButton">RadioButton</string>
     <string name="CheckBox">CheckBox</string>
     <string name="swit">What does this do?</string>
+    <string name="switch_on"> Switch is on</string>
+    <string name="switch_off"> Switch is off</string>
+    <string name="dialog_message">Are you sure</string>
+    <string name="cancel"> cancel</string>
+    <string name="ok"> OK</string>
+    <string name="Switch">switch</string>
+    <string name="login_name">login</string>
+    <string name="Password">password</string>
+    <string name="Login">login</string>
+    <string name="ButtonText4">Start Chart</string>
+
+
 </resources>
